@@ -23,6 +23,7 @@
 #include <stdio.h>
 #include "AfonsoMeirelles20251160022.h" 
 #include <stdlib.h>
+#include <string.h>
 
 DataQuebrada quebraData(char data[]);
 
